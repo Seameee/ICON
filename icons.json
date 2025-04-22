@@ -305,6 +305,22 @@
     {
       "name": "tvOS",
       "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png"
+    },
+    {
+      "name": "Freecloud",
+      "url": "https://raw.githubusercontent.com/Seameee/ICON/main/icons/Freecloud.png"
+    },
+    {
+      "name": "Taoqitu",
+      "url": "https://raw.githubusercontent.com/Seameee/ICON/main/icons/Taoqitu.png"
+    },
+    {
+      "name": "Leiting",
+      "url": "https://raw.githubusercontent.com/Seameee/ICON/main/icons/Leiting.png"
+    },
+    {
+      "name": "Mitce",
+      "url": "https://mitce.com/templates/arges_theme/images/auth/logo_white.svg"
     }
   ]
 }
